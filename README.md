@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Labi-dev
 - 👀 I’m interested in creating web applications for both web2 and web3
-- 🌱 I’m currently learning Cairo Programming with Starknet
-- 💞️ I tutor young developers internationally to help them kick-start their tech career or passion in web development
+- 🌱 I’m currently learning Solidity programming for the Ethereum network
+- 🌱 Cairo Programming for Starknet
+- 💞️ I tutor young developers internationally to help them kick-start their tech career or passion in web development (HTML,CSS,Javascript and Python)
 - 📫 How to reach me on joyeden325@gmail.com
 - 🎂 May 27th
 - 😄 Pronouns: she/her
