@@ -2,7 +2,7 @@
 
 <!-- <img src="./header.png" width="100%" alt="Eden Joy Header" /> -->
 <p align="center">
-  <img src="./labidev2.gif" width="100%" alt="Header Banner" />
+  <img src="./labidev3.gif" width="100%" alt="Header Banner" />
 </p>
 
 
