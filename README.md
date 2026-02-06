@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./header.png" width="100%" alt="Eden Joy Header" />
+<!-- <img src="./header.png" width="100%" alt="Eden Joy Header" /> -->
+<p align="center">
+  <img src="./labidev.gif" width="100%" alt="Header Banner" />
+</p>
 
 # ⚡ Hello World, I'm Eden Joy! 
 ### (aka Labi-dev)
