@@ -5,7 +5,7 @@
 # ⚡ Hello World, I'm Eden Joy! 
 ### (aka Labi-dev)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F50057&center=true&vCenter=true&width=435&lines=Smart Contract+Developer;Frontend+Engineer;Web2&3+Educator;Gaming+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F50057&center=true&vCenter=true&width=435&lines=Smart+Contract+Developer;Frontend+Engineer;Web2&3+Educator;Gaming+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Labi-Joy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Labi-Joy" />
