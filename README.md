@@ -1,6 +1,13 @@
 <div align="center">
 
 <!-- <img src="./header.png" width="100%" alt="Eden Joy Header" /> -->
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/66415f30-7f6d-4469-ae10-bc3842fda635" width="100%" controls autoplay loop muted></video>
+</p>
+
+
+
+
 
 # ⚡ Hello World, I'm Eden Joy! 
 ### (aka Labi-dev)
