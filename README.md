@@ -5,11 +5,19 @@
 # ⚡ Hello World, I'm Eden Joy! 
 ### (aka Labi-dev)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Frontend+Engineer;Web3+Educator;Gaming+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=593163&center=true&vCenter=true&width=435&lines=SmartContract+Developer;Frontend+Engineer;Web2&3+Educator;Gaming+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Labi-Joy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Labi-Joy" />
 </p>
+
+---
+### 💫 About My Journey
+I am a **Blockchain and Frontend Developer** driven by the potential of decentralized technology. 
+Beyond building, I am committed to **mentorship**, helping aspiring developers bridge the gap 
+from zero to their first lines of code.
+
+**Currently Exploring:** Deep diving into **Stacks (Clarity)** ecosystem and **Gaming and Backend (Rust)**.
 
 ---
 
@@ -41,6 +49,6 @@
 
 ---
 
-*"Whatever you do, do it heartily, as to the Lord and not to men."* ✞
+*"Unlearning, Learning, Relearning"* ✞
 
 </div>
